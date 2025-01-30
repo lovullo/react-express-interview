@@ -1,0 +1,9 @@
+build/
+config/
+node_modules/
+.nyc_output/
+coverage/
+.env
+google-key.json
+
+!Makefile
